@@ -1,0 +1,8 @@
+python-telegram-bot
+telegram
+numpy
+sympy
+networkx
+matplotlib
+requests
+Fraction
